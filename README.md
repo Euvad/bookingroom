@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project is my first project with react context, i still have to learn alot and the project if far from a true clean code.
+This project is my first project with react context, i still have to learn alot and the project is far from a true clean code.
 
 ## Available Scripts
 
